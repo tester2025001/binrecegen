@@ -1,0 +1,2 @@
+# binrecegen
+generate slip
